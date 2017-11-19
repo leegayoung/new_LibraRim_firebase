@@ -1,0 +1,205 @@
+{
+  "project_info": {
+    "project_number": "319504740574",
+    "firebase_url": "https://librarim-a20da.firebaseio.com",
+    "project_id": "librarim-a20da",
+    "storage_bucket": "librarim-a20da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319504740574:android:3c015b3252c68e66",
+        "android_client_info": {
+          "package_name": "kr.hs.emirim.bbong0722.librarim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319504740574-m6gaq44suq3ettpkk848o199e3ask1oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.emirim.bbong0722.librarim",
+            "certificate_hash": "7a680f8eb54654a29e1efdaed03f8a127079d8a3"
+          }
+        },
+        {
+          "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQEZNSk0dpPQ3lqIPD2MgP170SQcM1hM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319504740574:android:91ab5c6d036dff41",
+        "android_client_info": {
+          "package_name": "kr.hs.emirim.bbong0722.librarim_456"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQEZNSk0dpPQ3lqIPD2MgP170SQcM1hM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319504740574:android:00a655b1920b5c81",
+        "android_client_info": {
+          "package_name": "firebasedbexample.leega0711.emirim.hs.kr.librarim_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319504740574-rilqss4br6sjp3cltatp79fce1s60o65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebasedbexample.leega0711.emirim.hs.kr.librarim_test",
+            "certificate_hash": "934b355133d6f27c133bdb9d9939aab187ae0534"
+          }
+        },
+        {
+          "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQEZNSk0dpPQ3lqIPD2MgP170SQcM1hM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319504740574:android:d574d117c35b52d7",
+        "android_client_info": {
+          "package_name": "com.bepro.globe22.mylistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQEZNSk0dpPQ3lqIPD2MgP170SQcM1hM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319504740574:android:0373892c7947eec5",
+        "android_client_info": {
+          "package_name": "kr.hs.emirim.yoosieun.librarim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319504740574-7mrg3jaena4mqrg2fhk9ebpnjg156qmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.emirim.yoosieun.librarim",
+            "certificate_hash": "934b355133d6f27c133bdb9d9939aab187ae0534"
+          }
+        },
+        {
+          "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQEZNSk0dpPQ3lqIPD2MgP170SQcM1hM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319504740574-nv5p9bhprc1a7lu59366lulclsl1lnuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

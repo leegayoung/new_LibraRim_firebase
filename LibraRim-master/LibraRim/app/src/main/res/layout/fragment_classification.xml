@@ -1,0 +1,135 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageButton
+        android:id="@+id/tofButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="100dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_tof"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+    <ImageButton
+        android:id="@+id/artButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_art"
+        android:layout_alignTop="@+id/tofButton"
+        android:layout_toRightOf="@+id/tofButton"
+        android:layout_toEndOf="@+id/tofButton"
+        android:layout_marginLeft="40dp"
+        android:layout_marginStart="40dp" />
+    <ImageButton
+        android:id="@+id/reliButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_reli"
+        android:layout_below="@+id/tofButton"
+        android:layout_alignLeft="@+id/tofButton"
+        android:layout_alignStart="@+id/tofButton"
+        android:layout_marginTop="40dp" />
+    <ImageButton
+        android:id="@+id/sosciButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_sosci"
+        android:layout_below="@+id/tofButton"
+        android:layout_alignLeft="@+id/artButton"
+        android:layout_alignStart="@+id/artButton"
+        android:layout_marginTop="40dp" />
+    <ImageButton
+        android:id="@+id/nasButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_nas"
+        android:layout_below="@+id/reliButton"
+        android:layout_alignLeft="@+id/reliButton"
+        android:layout_alignStart="@+id/reliButton"
+        android:layout_marginTop="40dp" />
+    <ImageButton
+        android:id="@+id/philButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_phil"
+        android:layout_below="@+id/sosciButton"
+        android:layout_alignLeft="@+id/sosciButton"
+        android:layout_alignStart="@+id/sosciButton"
+        android:layout_marginTop="40dp" />
+    <ImageButton
+        android:id="@+id/dessciButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_dessci"
+        android:layout_below="@+id/nasButton"
+        android:layout_alignLeft="@+id/nasButton"
+        android:layout_alignStart="@+id/nasButton"
+        android:layout_marginTop="40dp" />
+    <ImageButton
+        android:id="@+id/langButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_lang"
+        android:layout_below="@+id/philButton"
+        android:layout_alignLeft="@+id/philButton"
+        android:layout_alignStart="@+id/philButton"
+        android:layout_marginTop="40dp" />
+    <ImageButton
+        android:id="@+id/litButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_lit"
+        android:layout_below="@+id/dessciButton"
+        android:layout_alignLeft="@+id/dessciButton"
+        android:layout_alignStart="@+id/dessciButton"
+        android:layout_marginTop="40dp" />
+    <ImageButton
+        android:id="@+id/hisButton"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="getListPage"
+        app:srcCompat="@drawable/btn_his"
+        android:layout_below="@+id/langButton"
+        android:layout_alignLeft="@+id/langButton"
+        android:layout_alignStart="@+id/langButton"
+        android:layout_marginTop="40dp" />
+
+</RelativeLayout>

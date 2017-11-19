@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:title="검색 기록 저장"
+        android:key="record_save">
+    </SwitchPreference>
+
+    <Preference
+        android:title="검색 기록 삭제"
+        android:key="record_delete">
+    </Preference>
+
+    <Preference
+        android:title="서비스 정보"
+        android:key="service_info">
+    </Preference>
+
+</PreferenceScreen>
